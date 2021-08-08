@@ -1,0 +1,34 @@
+body {
+  font-family: 'Source Sans Pro', arial, helvetica, sans-serif;
+  padding-bottom: 50px;
+}
+h3 {
+  margin-top: 50px;
+}
+li {
+  margin: 25px 50px 0 0;
+}
+table {
+  width: 1400px;
+  margin: 0 50px 0 50px;
+}
+td {
+  width: 50%;
+  vertical-align: top;
+  padding-right: 60px;
+}
+
+.pluscode-tech-radar-container{
+  text-align: center!important;
+  overflow-x: auto;
+}
+
+.container{
+  max-width: 1140px;
+  text-align: justify!important;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
