@@ -17,3 +17,18 @@ td {
   vertical-align: top;
   padding-right: 60px;
 }
+
+.pluscode-tech-radar-container{
+  text-align: center!important;
+  overflow-x: auto;
+}
+
+.container{
+  max-width: 1140px;
+  text-align: justify!important;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
